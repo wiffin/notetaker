@@ -15,7 +15,7 @@ A place you can create, save and delete notes.
 
 ## Installation
 
-click on the the deployed link below to be brought to the notetaker website.
+click on the the deployed link below to be brought to the notetaker website. <br />
 https://evening-beach-00467.herokuapp.com/
 
 ## Usage
